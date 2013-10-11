@@ -11,5 +11,12 @@
         {
             "name": "Glen Langer"
         }
-    ]
+    ],
+    "extra":{
+        "contao": {
+            "sources":{
+                "":"system/modules/spielwiese"
+            }
+        }
+    }
 }
