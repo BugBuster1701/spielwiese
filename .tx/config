@@ -1,0 +1,9 @@
+[main]
+host = https://www.transifex.com
+
+[spielwiese.default]
+file_filter = xliff/<lang>/default.xlf
+source_file = xliff/en/default.xlf
+source_lang = en
+type = XLIFF
+

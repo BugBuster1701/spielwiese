@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="php" date="2013-05-13T23:23:07+02:00" original="default" source-language="en" target-language="en">
+    <body>
+      <trans-unit id="MSC.tl_spielwiese.id">
+        <source>ID</source>
+        <target>ID</target>
+      </trans-unit>
+      <trans-unit id="MSC.tl_spielwiese.picture">
+        <source>Picture</source>
+        <target>Picture</target>
+      </trans-unit>
+      <trans-unit id="MSC.tl_spielwiese.name">
+        <source>Name</source>
+        <target>Name</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
