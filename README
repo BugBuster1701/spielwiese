@@ -4,3 +4,6 @@ merged,deleted.
 Zend Studio Test
 submodule test
 per smartgit als submodule in contaobranch geholt, mit zend editiert.
+
+Nun hat das Teil eine composer.json und wurde in packagist registriert inkl. Hook.
+Nu kann ich darüber auch testen wie die ganze Sache zusammenspielt.
