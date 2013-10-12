@@ -1,7 +1,7 @@
 {
     "name": "bugbuster/spielwiese",
     "license": "proprietary",
-    "type": "library",
+    "type": "contao-module",
     "description": "Spielwiese zum testen der ganze Sache",
     "homepage": "http://www.contao.glen-langer.de/",
     "require": {
