@@ -16,7 +16,13 @@
         "contao": {
             "sources":{
                 "":"system/modules/spielwiese"
-            }
+            },
+			"transifex": {
+				"project": "spielwiese",
+				"prefix": "master-",
+				"languages_cto": "languages",
+				"languages_tx": ".tx"
+			}
         }
     }
 }
