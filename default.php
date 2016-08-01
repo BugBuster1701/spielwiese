@@ -15,3 +15,5 @@
 $GLOBALS['TL_LANG']['MSC']['tl_spielwiese']['id']      = 'ID';
 $GLOBALS['TL_LANG']['MSC']['tl_spielwiese']['name']    = 'Name';
 $GLOBALS['TL_LANG']['MSC']['tl_spielwiese']['picture'] = 'Picture';
+
+$GLOBALS['TL_LANG']['MSC']['tl_spielwiese']['user'] = 'User';
